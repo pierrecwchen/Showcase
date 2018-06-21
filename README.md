@@ -10,7 +10,7 @@ Here are the page list:
     For C++ works:
     
     
-        <link rel="HillsHaveTowers" href="https://pierrecwchen.github.io/HillsHaveTowers/">
+        [a link](https://pierrecwchen.github.io/HillsHaveTowers/)
 
         https://pierrecwchen.github.io/UniversalTrip/
 
