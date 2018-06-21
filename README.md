@@ -10,24 +10,24 @@ Here are the page list:
 For C++ works:
     
     
-[a link](https://pierrecwchen.github.io/HillsHaveTowers/)
+[HillsHaveTowers](https://pierrecwchen.github.io/HillsHaveTowers/)
 
-https://pierrecwchen.github.io/UniversalTrip/
+[UniversalTrip](https://pierrecwchen.github.io/UniversalTrip/)
 
 
 For Java works (with some SQL):
 
-https://pierrecwchen.github.io/ConnectMySQL/
+[ConnectMySQL](https://pierrecwchen.github.io/ConnectMySQL/)
 
-https://pierrecwchen.github.io/Sorting/
+[Sorting](https://pierrecwchen.github.io/Sorting/)
         
         
 For Objective-C works:
 
-https://pierrecwchen.github.io/Sierpinski/
+[Sierpinski](https://pierrecwchen.github.io/Sierpinski/)
 
 
 For HTML5 canvas / Javascript / WebGL works:
 
-https://pierrecwchen.github.io/WebGL/
+[WebGL](https://pierrecwchen.github.io/WebGL/)
 
