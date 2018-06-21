@@ -9,7 +9,7 @@ Here are the page list:
 
     For C++ works:
     
-        https://pierrecwchen.github.io/HillsHaveTowers/
+        <a href="https://pierrecwchen.github.io/HillsHaveTowers/">Game project: HillsHaveTowers</a>
 
         https://pierrecwchen.github.io/UniversalTrip/
 
