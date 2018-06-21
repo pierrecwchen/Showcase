@@ -7,27 +7,27 @@ In this repository, you can find out my resume, and a github page list down belo
 Here are the page list:
 
 
-    For C++ works:
+For C++ works:
     
     
-        [https://pierrecwchen.github.io/HillsHaveTowers/](https://pierrecwchen.github.io/HillsHaveTowers/)
+[a link](https://pierrecwchen.github.io/HillsHaveTowers/)
 
-        https://pierrecwchen.github.io/UniversalTrip/
+https://pierrecwchen.github.io/UniversalTrip/
 
 
-    For Java works (with some SQL):
+For Java works (with some SQL):
 
-        https://pierrecwchen.github.io/ConnectMySQL/
+https://pierrecwchen.github.io/ConnectMySQL/
 
-        https://pierrecwchen.github.io/Sorting/
+https://pierrecwchen.github.io/Sorting/
         
         
-    For Objective-C works:
+For Objective-C works:
 
-        https://pierrecwchen.github.io/Sierpinski/
+https://pierrecwchen.github.io/Sierpinski/
 
 
-    For HTML5 canvas / Javascript / WebGL works:
+For HTML5 canvas / Javascript / WebGL works:
 
-        https://pierrecwchen.github.io/WebGL/
+https://pierrecwchen.github.io/WebGL/
 
